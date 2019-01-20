@@ -31,6 +31,7 @@
 * [2752 세수정렬](https://www.acmicpc.net/problem/2752)
 * [2789 유학금지](https://www.acmicpc.net/problem/2789)
 * [2839 설탕배달](https://www.acmicpc.net/problem/2839)
+* [2872 우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872)
 * [2941 크로아티아알파벳](https://www.acmicpc.net/problem/2941)
 * [4344 평균은넘겠지](https://www.acmicpc.net/problem/4344)
 * [5337 웰컴](https://www.acmicpc.net/problem/5337)
